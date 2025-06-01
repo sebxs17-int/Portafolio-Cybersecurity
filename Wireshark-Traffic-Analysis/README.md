@@ -3,7 +3,7 @@
 - eth2dump-clean_05h_1.pcap
 
 ## Objetivo
-Realizar un analisis basico de trafico con wiresharkpara identificar protocolos, conexiones y eventos sospechosos o importantes en una red.
+Realizar un analisis basico de trafico con wireshark para identificar protocolos, conexiones y eventos sospechosos o importantes en una red.
 ---
 
 ## Analisis 
