@@ -1,4 +1,4 @@
-# Persistencia en Windows — Laboratorio
+# Persistencia en Windows — 
 
 **Resumen:**  
 Laboratorio que demuestra técnicas de persistencia en Windows mediante **Scheduled Task** (tarea programada) y, opcionalmente, **Run Key** en el Registro. Incluye artefactos benignos, evidencias y recomendaciones de detección/mitigación.
@@ -6,8 +6,8 @@ Laboratorio que demuestra técnicas de persistencia en Windows mediante **Schedu
 ---
 
 ## Objetivo
-Aprender a implementar mecanismos de persistencia post-explotación en Windows, documentar los artefactos que generan y entender cómo defenderse de ellos.  
-**Este proyecto es con fines educativos y éticos. No me hago responsable de usos indebidos.**
+.
+**Este proyecto es con fine educativos y éticos. No me hago responsable de usos indebidos.**
 
 ---
 
