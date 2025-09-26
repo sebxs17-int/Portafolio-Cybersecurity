@@ -1,0 +1,6 @@
+﻿
+Algorithm       Hash                                                                   Path                                                   
+---------       ----                                                                   ----                                                   
+SHA256          31B2425C2EAD5AE1E30C40F86C0FC8585C8B5841FFCAB3F24099946E0A49670B       C:\Users\Public\lab_persist.ps1                        
+
+

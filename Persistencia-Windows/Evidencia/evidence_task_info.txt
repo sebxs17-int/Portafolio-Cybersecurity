@@ -1,0 +1,24 @@
+﻿
+
+State                 : Ready
+Actions               : {MSFT_TaskExecAction}
+Author                : 
+Date                  : 
+Description           : Lab persist task - benign
+Documentation         : 
+Principal             : MSFT_TaskPrincipal2
+SecurityDescriptor    : 
+Settings              : MSFT_TaskSettings3
+Source                : 
+TaskName              : LabPersist
+TaskPath              : \
+Triggers              : {MSFT_TaskBootTrigger}
+URI                   : \LabPersist
+Version               : 
+PSComputerName        : 
+CimClass              : Root/Microsoft/Windows/TaskScheduler:MSFT_ScheduledTask
+CimInstanceProperties : {Actions, Author, Date, Description...}
+CimSystemProperties   : Microsoft.Management.Infrastructure.CimSystemProperties
+
+
+

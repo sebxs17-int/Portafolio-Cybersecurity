@@ -1,0 +1,9 @@
+○ lab_persist.service - Lab persist service
+     Loaded: loaded (/etc/systemd/system/lab_persist.service; enabled; preset: enabled)
+     Active: inactive (dead) since Thu 2025-09-25 21:31:26 UTC; 6min ago
+   Main PID: 830 (code=exited, status=0/SUCCESS)
+        CPU: 9ms
+
+Sep 25 21:31:24 ubunt systemd[1]: Starting lab_persist.service - Lab persist service...
+Sep 25 21:31:26 ubunt systemd[1]: lab_persist.service: Deactivated successfully.
+Sep 25 21:31:26 ubunt systemd[1]: Finished lab_persist.service - Lab persist service.
