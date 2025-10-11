@@ -34,7 +34,7 @@ docker-compose up -d
 - Hallazgo: las contraseñas se almacenan en texto plano y violacion de control de acceso
 ![evidencia](screenshot/postman.png)
 
-Al momento de hacer la inteptacion respectiva con Burpsuite se refleja que  modificando una id establecida por otra, Burpsuite detecta y halla otro usuario en la base de datos.
+Al momento de hacer la interceptacion respectiva con Burpsuite se refleja que  modificando una id establecida por otra, Burpsuite detecta y halla otro usuario en la base de datos.
 
 Evidencias
 
