@@ -87,8 +87,6 @@ Se utilizo **Gobuster** para descubrir directorios en el servidor web:
  - **Manipulacion de Cookies**
 
 A de las DevTools del navegador se identifico la cookie **security=low**, lo que confirma que el nivel de seguridad podia ser manipulado por el usuario.
-![man](Evidencias/cap16.jpeg)
-![mani](Evidencias/cap20.jpeg)
 
 - **SQL Injection con slqmap**
 
