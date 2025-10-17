@@ -112,4 +112,6 @@ Iniciamos acceso remoto con **Remmina** y obtenemos un hash.
 - No exponer servicios sensibles (SMB, SQL, RPD) a internet.
 - Usar contraseñas robustas y rotacion periodica.
 - Implementar segmentacion de red y firewall restrictivo.
+
+
 -Monitorear accesos anomalos y creacion de cuentas administrativas.
