@@ -24,8 +24,7 @@ class PortScanner(Basemodule):
         """
         print(f"[PortScanner] Iniciando escaneo en: {target} (use_nmap={use_nmap})")
 
-        # Si quieres, cuando use_nmap == True aqui llamas a python-nmap (más adelante).
-        # Por ahora seguimos con la implementación por sockets.
+
 
         if ports is None:
             ports = self.common_ports
