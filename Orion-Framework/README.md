@@ -18,9 +18,26 @@
 ## Instalacion
 ```bash
 
-git clone https://github.com/sebxs17-int/orion-framework.git
-cd orion-framework
+1. git clone https://github.com/sebxs17-int/Portafolio-Cybersecurity.git
+cd Portafolio-Cybersecurity/Orion-Framework
+
+2.Instala dependencias del sistema:
+sudo apt update
+sudo apt install python3-venv python3-pip nmap -y
+
+3.Crea y activa un entorno virtual:
+python3 -m venv venv
+source venv/bin/activate
+
+4.Instala dependencias Python:
 pip install -r requeriments.txt
+
+5.Ejecuta:
+Python3 run_scan.py (IP)
+
+6.Cuando termines:
+deactivate
+
 ```
 ---
 
