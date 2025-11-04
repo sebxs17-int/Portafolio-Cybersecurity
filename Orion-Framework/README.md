@@ -89,4 +89,4 @@ Tu apoyo y paciencia ayudan a que **ORION** evolucione en cada version.
 Desarrollado por **Sebastian Useche, CEO de Astheroid**
 "Explorando los limites entre codigos y la seguridad"
 
-© 2025 Astheroid Industries. Todos los derechos reservados.
+© 2025 Astheroid. Todos los derechos reservados.
