@@ -75,7 +75,7 @@ Esta es una **version beta** del framework **ORION**. Puede presentar errores o 
 
 ## Aviso Beta
 **Orion Framework** esta actualmente en **fase beta,** lo que significa que aun esta en continuas mejoras y detalles para optimizacion.
-Algunos componentes pueden cambiar o no funcionar al 100%. Este proyecto se encuentra en constante evolucuin y actualizacion.
+Algunos componentes pueden cambiar o no funcionar al 100%. Este proyecto se encuentra en constante evolucion y actualizacion.
 
 ---
 
