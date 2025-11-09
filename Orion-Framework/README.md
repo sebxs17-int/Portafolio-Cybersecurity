@@ -81,7 +81,7 @@ Algunos componentes pueden cambiar o no funcionar al 100%. Este proyecto se encu
 
 ## Agredecimiento y disculpa
 Gracias por probar **Orion Framework**
-Este proyecto aun esta en fase **Beta**, por lo que puede presentar eerores o limitaciones temporales. Pido disculpas por cualquier incoveniente y agradezco tu comprension mientras continuo mejorando  su rendimiento y estabilidad y capacidades.
+Este proyecto aun esta en fase **Beta**, por lo que puede presentar errores o limitaciones temporales. Pido disculpas por cualquier incoveniente y agradezco tu comprension mientras continuo mejorando  su rendimiento y estabilidad y capacidades.
 
 Tu apoyo y paciencia ayudan a que **ORION** evolucione en cada version.
 
